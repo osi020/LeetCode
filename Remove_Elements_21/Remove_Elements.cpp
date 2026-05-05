@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector> // This librairie
+#include <vector>
 
 class Solution {
 public: 
